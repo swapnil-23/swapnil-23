@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h3 align="left">Contact</h3>
 
 <a href="mailto:swappnilbiswas2013@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sukhmeetbawa/sukhmeetbawa/main/mail.svg"/></a>
-<a href="https://www.linkedin.com/in/swapnil-biswas-4b192914a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sukhmeetbawa/sukhmeetbawa/main/linkedin.svg"/></a>
+<a href="https://www.linkedin.com/in/swapnil-biswas-4b192914a/" target="_blank"><img align="center" src="img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/aditya-khaladkar-bb454b204" height="30" width="40" "/></a>
 <br />
 
 ![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnil-23&theme=github_dark&show_icons=true)
